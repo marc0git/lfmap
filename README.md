@@ -1,5 +1,4 @@
-#            Latent Functional Maps:
-## a spectral framework for representation alignment
+#            Latent Functional Maps: a spectral framework for representation alignment
 
 Official lightweight implementation of the [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/79be41d858841037987964e3f5caf76d-Abstract-Conference.html) *"Latent Functional Maps: a spectral framework for representation alignment."* by Marco Fumero, Marco Pegoraro, Valentino Maiorca, Francesco Locatello and Emanuele Rodolà.  Published at The Thirty-eighth Annual Conference on Neural Information Processing Systems, NeurIPS, 2024.
 
