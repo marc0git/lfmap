@@ -1,9 +1,27 @@
-# Latent Functional Maps: a spectral framework for representation alignment
+#            Latent Functional Maps:
+## a spectral framework for representation alignment
 
-Official implementation of the [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/79be41d858841037987964e3f5caf76d-Abstract-Conference.html) *"Latent Functional Maps: a spectral framework for representation alignment."* by Marco Fumero, Marco Pegoraro, Valentino Maiorca, Francesco Locatello and Emanuele Rodolà.  Published at The Thirty-eighth Annual Conference on Neural Information Processing Systems, NeurIPS, 2024.
+Official lightweight implementation of the [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/79be41d858841037987964e3f5caf76d-Abstract-Conference.html) *"Latent Functional Maps: a spectral framework for representation alignment."* by Marco Fumero, Marco Pegoraro, Valentino Maiorca, Francesco Locatello and Emanuele Rodolà.  Published at The Thirty-eighth Annual Conference on Neural Information Processing Systems, NeurIPS, 2024.
 
 
 ![](giflfm.gif)
+
+
+### Quick start 
+
+Install the conda environment and dependencies via:
+
+
+```
+conda env create --name lfmap --file=lfmap.yml
+
+conda activate
+
+```
+
+
+You're ready to go! 
+
 
 If you find our code or paper useful, please cite it at:
 
