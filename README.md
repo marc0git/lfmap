@@ -19,10 +19,10 @@ conda activate lfmap
 ```
 
 
-You're ready to go! 
+You're good to go!
 
 
-You can explore functionalities and applications of the Latent Functional Map framework through the provided notebooks. These examples demonstrate its use in neural model stitching, retrieval, and measuring similarity across various representational spaces, reproducing the paper’s results.
+You can explore basic functionalities and applications of the Latent Functional Map framework through the provided notebooks. These examples demonstrate its use in trasferring information, finding correspondences, and measuring similarity across various representational spaces, reproducing the paper’s results.
 
 
 If you find our code or paper useful, please cite it at:
